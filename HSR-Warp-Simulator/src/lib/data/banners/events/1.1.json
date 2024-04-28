@@ -1,0 +1,33 @@
+{
+	"patch": 1.1,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["6-1"],
+					"rateup": ["dan-heng", "asta", "serval"]
+				},
+				"lightcone": {
+					"bannerID": ["17-1"],
+					"rateup": ["memories-of-the-past", "subscribe-for-more", "make-the-world-clamor"]
+				}
+			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["7-1"],
+					"rateup": ["pela", "qingque", "yukong"]
+				},
+				"lightcone": {
+					"bannerID": ["18-1"],
+					"rateup": ["good-night-and-sleep-well", "geniuses-repose", "dance-dance-dance"]
+				}
+			}
+		}
+	]
+}

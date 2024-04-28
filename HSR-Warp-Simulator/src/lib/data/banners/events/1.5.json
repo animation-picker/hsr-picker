@@ -1,0 +1,33 @@
+{
+	"patch": 1.5,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["23-1"],
+					"rateup": ["dan-heng", "arlan", "serval"]
+				},
+				"lightcone": {
+					"bannerID": ["24-1"],
+					"rateup": ["subscribe-for-more", "shared-feeling", "trend-of-the-universal-market"]
+				}
+			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["25-1", "6-2"],
+					"rateup": ["hanya", "lynx", "asta"]
+				},
+				"lightcone": {
+					"bannerID": ["26-1", "17-2"],
+					"rateup": ["post-op-conversation", "under-the-blue-sky", "the-birth-of-the-self"]
+				}
+			}
+		}
+	]
+}

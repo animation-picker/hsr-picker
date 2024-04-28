@@ -1,0 +1,21 @@
+{
+  "name": "electron-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ./ hsr --electron-version=28.1.0 --overwrite --asar",
+    "build-win": "electron-packager ./ hsr --platform=win32 --electron-version=28.1.0 --arch=x64 --overwrite --asar"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "electron": "^30.0.1",
+    "electron-packager": "^17.1.2"
+  }
+}

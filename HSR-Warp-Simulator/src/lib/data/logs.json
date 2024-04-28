@@ -1,0 +1,253 @@
+{
+	"logs": [
+		{
+			"date": "20 Apr 2023",
+			"changes": [
+				"Departure Layout",
+				"Character Events Layout",
+				"Light Cone Event Layout",
+				"Stellar Layout"
+			]
+		},
+		{
+			"date": "27 Apr 2023",
+			"changes": ["Gacha Algorithm", "Add Banner data for Seele (v1.0 phase 1)"]
+		},
+		{
+			"date": "1 May 2023",
+			"changes": ["Add v1.0 phase 2, Jing Yuan Banner"]
+		},
+		{
+			"date": "7 May 2023",
+			"changes": [
+				"Storing data to Browser Storage",
+				"Gacha Splash Art Animation",
+				"Add more light cone and characters"
+			]
+		},
+		{
+			"date": "11 May 2023",
+			"changes": ["Add Collection Section"]
+		},
+		{
+			"date": "14 May 2023",
+			"changes": ["Add Gacha Settings"]
+		},
+		{
+			"date": "16 May 2023",
+			"changes": ["Enable PWA"]
+		},
+		{
+			"date": "18 May 2023",
+			"changes": [
+				"Add Shop Section",
+				"Enable Oneiric Topup",
+				"Add Various Price, automaticaly selected based on browser Language"
+			]
+		},
+		{
+			"date": "19 May 2023",
+			"changes": [
+				"Add Modal to Convert Oneiric to Stellar Jade",
+				"Add Silver Wolf's banner and her Light cone",
+				"Add New Character: Yukong (4★)"
+			]
+		},
+		{
+			"date": "20 May 2023",
+			"changes": ["Starlight Exchange", "Embers Exchange", "Stellar Trade"]
+		},
+		{
+			"date": "21 May 2023",
+			"changes": ["Add Banner Details Section"]
+		},
+		{
+			"date": "22 May 2023",
+			"changes": ["Add History Record Section"]
+		},
+		{
+			"date": "25 May 2023",
+			"changes": [
+				"Enable Additional Rewards for Regular Banner",
+				"Add Item Obtained Screen",
+				"Change Items Reading Method, All items that obtained before this update will not be displayed in the Inventory"
+			]
+		},
+		{
+			"date": "27 May 2023",
+			"changes": ["Update V1.1 Banner", "Add Luocha and his Light Cone"]
+		},
+		{
+			"date": "30 May 2023",
+			"changes": ["Add Phonograph and the Tracks"]
+		},
+		{
+			"date": "31 May 2023",
+			"changes": [
+				"Preload Astral Express Animation to reduce the chance of getting error",
+				"Add option to reduce animation, turned on automatically on mobile device"
+			]
+		},
+		{
+			"date": "2 Jun 2023",
+			"changes": ["Screenshot Generator and Shareable links", "Add First Time Sharing Rewards"]
+		},
+		{
+			"date": "3 Jun 2023",
+			"changes": [
+				"Add Kafka Banner",
+				"Add form for Pro User Special Access",
+				"Lock Future Banner from Common User"
+			]
+		},
+		{
+			"date": "5 Jun 2023",
+			"changes": [
+				"Make The Site Public",
+				"Unlock banner for <b>Silver Wolf</b> and <b>Incessant Rain</b>"
+			]
+		},
+		{
+			"date": "6 Jun 2023",
+			"changes": ["Add More Tracks", "Now you can import any musics from Youtube to the Phonograph"]
+		},
+		{
+			"date": "9 Jun 2023",
+			"changes": [
+				"Add New Character: Blade (5★)",
+				"Add New Character: Luka (4★)",
+				"Add Kafka's Light Cone - Patience Is All You Need",
+				"Add Blade's Light Cone - The Unreachable Side"
+			]
+		},
+		{
+			"date": "26 Jun 2023",
+			"changes": [
+				"Unlock Content For the 2nd phase of 1.1 - <b>Luocha, Yukong, Echoes of The Coffin</b>"
+			]
+		},
+		{
+			"date": "15 Jul 2023",
+			"changes": ["Unlock Content For the 1st phase of 1.2 - <b>Blade & The Unreachable Side</b>"]
+		},
+		{
+			"date": "20 Jul 2023",
+			"changes": [
+				"Add New Character: <b>Imbibitor Lunae (5★)</b> & <b>Fu Xuan (5★)</b>",
+				"Add New Character: <b>Lynx (4★)</b>",
+				"Add New Light Cones: <b>Brighter Than the Sun</b> & <b>She Already Shut Her Eyes</b>"
+			]
+		},
+		{
+			"date": "05 Aug 2023",
+			"changes": [
+				"Unlock Content For the 2nd phase of 1.2 - <b>Kafka & Patience is All You Need</b>"
+			]
+		},
+		{
+			"date": "27 Aug 2023",
+			"changes": [
+				"Unlock Content: The 1st phase of 1.3 - <b>Dan Heng • Imbibitor Lunae & Brighter Than the Sun</b>",
+				"Add New Character: <b>Jingliu (5★)</b> & <b>Topaz (5★)</b>",
+				"Add New Character: <b>Guinaifen (4★)</b>",
+				"Add New Light Cones: <b>I Shall Be My Own Sword</b> & <b>Worrisome, Blissful</b>"
+			]
+		},
+		{
+			"date": "14 Sep 2023",
+			"changes": [
+				"Unlock Content: The 2nd phase of 1.3 - <b>Fu Xuan & She Already Shut Her Eyes</b>"
+			]
+		},
+		{
+			"date": "01 Oct 2023",
+			"changes": ["Unlock Content: The 1st phase of 1.4 - <b>Jingliu & I Shall be My Own Sword</b>"]
+		},
+		{
+			"date": "10 Oct 2023",
+			"changes": [
+				"Add New Character: <b>Huohuo (5★)</b> & <b>Argenti (5★)</b>",
+				"Add New Character: <b>Hanya (4★)</b>",
+				"Add New Light Cones: <b>Night of Fright</b> & <b>An Instance Before a Gaze</b>"
+			]
+		},
+		{
+			"date": "23 Oct 2023",
+			"changes": [
+				"Unlock Content: The 2nd phase of 1.4",
+				"<b>Topaz</b> & <b>Worrisome Blissful</b>",
+				"<b>Seele</b> & <b>In the Night</b>"
+			]
+		},
+		{
+			"date": "10 Nov 2023",
+			"changes": ["Unlock Content: The 1st phase of 1.5 - <b>Huohuo & Night of Fright</b>"]
+		},
+		{
+			"date": "14 Nov 2023",
+			"changes": [
+				"Add New Character: <b>Ruan Mei (5★)</b> & <b>Dr. Ratio (5★)</b>",
+				"Add New Character: <b>Xueyi (4★)</b>",
+				"Add New Light Cones: <b>Past Self in Mirror</b> & <b>Baptism of Pure Thought</b>"
+			]
+		},
+		{
+			"date": "10 Nov 2023",
+			"changes": [
+				"Unlock Content: The 2nd phase of 1.5",
+				"- <b>Argenti & An Instance Before a Gaze</b>",
+				"- <b>Silver Wolf & Incessant Rain</b>"
+			]
+		},
+		{
+			"date": "16 Dec 2023",
+			"changes": [
+				"Unlock Content: The 1st phase of v1.6",
+				"- <b>Ruan Mei & Past Self in Mirror</b>",
+				"- <b>Blade & The Unreachable Side</b>"
+			]
+		},
+		{
+			"date": "25 Dec 2023",
+			"changes": [
+				"Add New Character: <b>Black Swan (5★)</b> & <b>Sparkle (5★)</b>",
+				"Add New Character: <b>Misha (4★)</b>",
+				"Add New Light Cones: <b>Reforged Remembrance</b> & <b>Earthly Escapade</b>"
+			]
+		},
+		{
+			"date": "13 Jan 2024",
+			"changes": [
+				"Unlock Content: The 2nd phase of v1.6",
+				"- <b>dr. Ratio & Baptism of Pure Thought</b>",
+				"- <b>Kafka & Patience Is All You Need </b>"
+			]
+		},
+		{
+			"date": "31 Jan 2024",
+			"changes": [
+				"Unlock Content: The 1st phase of v2.0 - <b>Black Swan & Dan Heng - Imbibitor Lunae</b>"
+			]
+		},
+		{
+			"date": "20 Feb 2024",
+			"changes": [
+				"Add New Character: <b>Acheron (5★)</b> & <b>Aventurine (5★)</b>",
+				"Add New Character: <b>Gallagher (4★)</b>",
+				"Add New Light Cones: <b>Along the Passing Shore</b> & <b>Inherently Unjust Destiny</b>"
+			]
+		},
+		{
+			"date": "31 Jan 2024",
+			"changes": ["Unlock Content: The 2nd phase of v2.0 - <b>Sparkle & Jing Yuan</b>"]
+		},
+		{
+			"date": "21 Mar 2024",
+			"featured": true,
+			"changes": [
+				"Unlock Content: The 1st phase of v2.1 - <b>Acheron & Luocha</b>",
+				"Add New Light Cones: <b>Concert of Two (4★)</b>"
+			]
+		}
+	]
+}

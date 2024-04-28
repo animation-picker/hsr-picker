@@ -1,0 +1,474 @@
+{
+	"data": [
+		{
+			"itemID": 1301,
+			"name": "gallagher",
+			"rarity": 4,
+			"combat_type": "fire",
+			"path": "abundance",
+			"release": "1000000-2",
+			"splashartOffset": { "w": 70, "l": 45 },
+			"gachaCardOffset": { "l": 35, "t": 170, "w": 290 }
+		},
+		{
+			"pro": true,
+			"itemID": 1304,
+			"name": "aventurine",
+			"rarity": 5,
+			"combat_type": "imaginary",
+			"path": "preservation",
+			"colors": ["32 26 19", "176 160 136"],
+			"bannerOffset": { "b": -50, "l": -5, "w": 125 },
+			"buttonOffset": { "t": -38, "w": 100 },
+			"splashartOffset": { "t": 58 },
+			"gachaCardOffset": { "l": 12, "t": 165, "w": 475 }
+		},
+		{
+			"itemID": 1308,
+			"name": "acheron",
+			"rarity": 5,
+			"combat_type": "lightning",
+			"path": "nihility",
+			"colors": ["32 29 30", "230 227 228", "198 9 22"],
+			"bannerOffset": { "b": -58, "l": 10, "w": 110 },
+			"buttonOffset": { "t": -38, "w": 100 },
+			"splashartOffset": { "t": 58, "l": 52, "w": 85 },
+			"gachaCardOffset": { "l": 25, "t": 270, "w": 440 }
+		},
+		{
+			"itemID": 1312,
+			"name": "misha",
+			"rarity": 4,
+			"combat_type": "ice",
+			"path": "destruction",
+			"release": "2.0-1",
+			"splashartOffset": { "w": 90, "l": 50, "t": 45 },
+			"gachaCardOffset": { "l": 35, "t": 110, "w": 400 }
+		},
+		{
+			"itemID": 1306,
+			"name": "sparkle",
+			"rarity": 5,
+			"combat_type": "quantum",
+			"path": "harmony",
+			"colors": ["49 62 135", "19 23 56"],
+			"bannerOffset": { "b": -42, "l": 12, "w": 103 },
+			"buttonOffset": { "t": -51, "w": 100 },
+			"splashartOffset": { "t": 58, "l": 52, "w": 85 },
+			"gachaCardOffset": { "l": 50, "t": 160, "w": 350 }
+		},
+		{
+			"itemID": 1307,
+			"name": "black-swan",
+			"rarity": 5,
+			"combat_type": "wind",
+			"path": "nihility",
+			"bannerOffset": { "b": -31, "l": 9.5, "w": 115 },
+			"buttonOffset": { "t": -53, "w": 102 },
+			"splashartOffset": { "t": 60, "w": 100, "l": 53 },
+			"gachaCardOffset": { "l": 75, "t": 190, "w": 410 }
+		},
+		{
+			"itemID": 1214,
+			"name": "xueyi",
+			"rarity": 4,
+			"combat_type": "quantum",
+			"path": "destruction",
+			"release": "1.6-1",
+			"splashartOffset": { "w": 80, "l": 52, "t": 55 },
+			"gachaCardOffset": { "l": 40, "t": 235, "w": 445 }
+		},
+		{
+			"itemID": 1305,
+			"name": "dr-ratio",
+			"rarity": 5,
+			"combat_type": "imaginary",
+			"path": "hunt",
+			"bannerOffset": { "b": -65, "l": 12.5, "w": 120 },
+			"buttonOffset": { "t": -36, "l": 0, "w": 100 },
+			"splashartOffset": { "t": 65, "l": 57.5, "w": 100 },
+			"gachaCardOffset": { "l": 45, "t": 330, "w": 570 }
+		},
+		{
+			"itemID": 1303,
+			"name": "ruan-mei",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "harmony",
+			"bannerOffset": { "b": -30, "l": 10.5, "w": 101 },
+			"buttonOffset": { "t": -31.5, "l": -2, "w": 105 },
+			"splashartOffset": { "t": 50, "w": 90, "l": 52 },
+			"gachaCardOffset": { "l": 35, "t": 145, "w": 410 }
+		},
+		{
+			"itemID": 1215,
+			"name": "hanya",
+			"rarity": 4,
+			"combat_type": "physical",
+			"path": "harmony",
+			"release": "1.4-2",
+			"splashartOffset": { "w": 90, "l": 52, "t": 55 },
+			"gachaCardOffset": { "l": 45, "t": 150, "w": 400 }
+		},
+		{
+			"itemID": 1302,
+			"name": "argenti",
+			"rarity": 5,
+			"combat_type": "physical",
+			"path": "erudition",
+			"bannerOffset": { "b": -65, "l": 16.5, "w": 145 },
+			"buttonOffset": { "t": -45, "l": 0, "w": 100 },
+			"splashartOffset": { "t": 57, "l": 66, "w": 105 },
+			"gachaCardOffset": { "l": 118, "t": 250, "w": 525 }
+		},
+		{
+			"itemID": 1217,
+			"name": "huohuo",
+			"rarity": 5,
+			"combat_type": "wind",
+			"path": "abundance",
+			"colors": ["42 102 122", "97 161 160"],
+			"bannerOffset": { "b": -40, "l": 7.5, "w": 120 },
+			"buttonOffset": { "t": -34, "l": -1, "w": 105 },
+			"splashartOffset": { "t": 58, "w": 90, "l": 52 },
+			"gachaCardOffset": { "l": 60, "t": 160, "w": 400 }
+		},
+		{
+			"itemID": 1210,
+			"name": "guinaifen",
+			"rarity": 4,
+			"combat_type": "fire",
+			"path": "nihility",
+			"release": "1.4-2",
+			"splashartOffset": { "w": 100, "l": 52 },
+			"gachaCardOffset": { "l": 50, "t": 155, "w": 430 }
+		},
+		{
+			"itemID": 1112,
+			"name": "topaz",
+			"rarity": 5,
+			"combat_type": "fire",
+			"path": "hunt",
+			"bannerOffset": { "b": -53, "l": -2.5, "w": 115 },
+			"buttonOffset": { "t": -40, "l": -5, "w": 115 },
+			"splashartOffset": { "t": 65, "w": 100 },
+			"gachaCardOffset": { "l": 20, "t": 225, "w": 410 }
+		},
+		{
+			"itemID": 1212,
+			"name": "jingliu",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "destruction",
+			"colors": ["33 46 78", "45 47 60", "61 129 206"],
+			"bannerOffset": { "b": -44, "l": 8.5, "w": 110 },
+			"buttonOffset": { "t": -34, "l": 0, "w": 100 },
+			"splashartOffset": { "t": 58, "w": 90, "l": 52 },
+			"gachaCardOffset": { "l": 37, "t": 230, "w": 425 }
+		},
+		{
+			"itemID": 1110,
+			"name": "lynx",
+			"rarity": 4,
+			"combat_type": "quantum",
+			"path": "abundance",
+			"release": "1.3-2",
+			"splashartOffset": { "t": 52, "w": 75, "l": 50 },
+			"gachaCardOffset": { "l": 20, "t": 115, "w": 400 }
+		},
+		{
+			"itemID": 1208,
+			"name": "fu-xuan",
+			"rarity": 5,
+			"combat_type": "quantum",
+			"path": "preservation",
+			"bannerOffset": { "b": -50, "l": 4.5, "w": 130 },
+			"buttonOffset": { "t": -30, "l": 0, "w": 100 },
+			"splashartOffset": { "t": 55, "w": 100, "l": 54.5 },
+			"gachaCardOffset": { "l": 60, "t": 200, "w": 500 }
+		},
+		{
+			"itemID": 1213,
+			"name": "imbibitor-lunae",
+			"rarity": 5,
+			"combat_type": "imaginary",
+			"path": "destruction",
+			"bannerOffset": { "b": -62, "l": -12, "w": 142 },
+			"buttonOffset": { "t": -48.5, "l": -5, "w": 110 },
+			"splashartOffset": { "t": 55, "w": 110, "l": 52 },
+			"gachaCardOffset": { "l": 15, "t": 205, "w": 520 }
+		},
+		{
+			"itemID": 1005,
+			"name": "kafka",
+			"rarity": 5,
+			"combat_type": "lightning",
+			"path": "nihility",
+			"bannerOffset": { "b": -52, "l": 3.5, "w": 124 },
+			"buttonOffset": { "t": -69, "l": -10, "w": 115 },
+			"splashartOffset": { "t": 55, "w": 110, "l": 52 },
+			"gachaCardOffset": { "l": 48, "t": 203, "w": 510 }
+		},
+		{
+			"itemID": 1111,
+			"name": "luka",
+			"rarity": 4,
+			"combat_type": "physical",
+			"path": "nihility",
+			"release": "1.2-2",
+			"splashartOffset": { "w": 80 },
+			"gachaCardOffset": { "l": 70, "w": 450, "t": 230 }
+		},
+		{
+			"itemID": 1205,
+			"name": "blade",
+			"rarity": 5,
+			"combat_type": "wind",
+			"path": "destruction",
+			"colors": ["51 64 102", "74 83 121"],
+			"buttonOffset": { "w": 100, "t": -44.5 },
+			"bannerOffset": { "b": -40, "l": 18, "w": 98 },
+			"splashartOffset": { "t": 60, "w": 75 },
+			"gachaCardOffset": { "t": 340, "l": 33, "w": 475 }
+		},
+		{
+			"itemID": 1203,
+			"name": "luocha",
+			"rarity": 5,
+			"combat_type": "imaginary",
+			"path": "abundance",
+			"bannerOffset": { "b": -27, "l": 13.5, "w": 103 },
+			"buttonOffset": { "t": -35, "w": 100 },
+			"splashartOffset": { "t": 55, "w": 90, "l": 54 },
+			"gachaCardOffset": { "l": 45, "t": 200, "w": 450 }
+		},
+		{
+			"itemID": 1207,
+			"name": "yukong",
+			"rarity": 4,
+			"combat_type": "imaginary",
+			"path": "harmony",
+			"release": "1.1-2",
+			"splashartOffset": { "t": 45, "w": 90, "l": 54 },
+			"gachaCardOffset": { "l": 65, "t": 150, "w": 450 }
+		},
+		{
+			"itemID": 1006,
+			"name": "silver-wolf",
+			"rarity": 5,
+			"combat_type": "quantum",
+			"path": "nihility",
+			"colors": ["42 38 99", "85 101 214"],
+			"splashartOffset": { "t": 51 },
+			"gachaCardOffset": { "t": 125, "l": 25, "w": 365 },
+			"buttonOffset": { "t": -60, "w": 110 },
+			"bannerOffset": { "b": -21, "l": 20.5, "w": 86 },
+			"textOffset": { "l": 65 }
+		},
+		{
+			"itemID": 1204,
+			"name": "jing-yuan",
+			"rarity": 5,
+			"combat_type": "lightning",
+			"path": "erudition",
+			"splashartOffset": { "t": 45, "w": 100 },
+			"gachaCardOffset": { "t": 145, "l": 35, "w": 530 },
+			"buttonOffset": { "t": -30, "w": 110 },
+			"bannerOffset": { "b": -38, "l": 7, "w": 115 }
+		},
+		{
+			"itemID": 1102,
+			"name": "seele",
+			"rarity": 5,
+			"combat_type": "quantum",
+			"path": "hunt",
+			"buttonOffset": { "t": -30, "w": 110 },
+			"bannerOffset": { "b": -55, "l": -6, "w": 163, "o": "hide" },
+			"gachaCardOffset": { "t": 15, "l": 140, "w": 585 },
+			"splashartOffset": { "t": 35, "l": 60, "w": 130 }
+		},
+		{
+			"itemID": 1211,
+			"name": "bailu",
+			"rarity": 5,
+			"combat_type": "lightning",
+			"path": "abundance",
+			"splashartOffset": { "t": 55 },
+			"gachaCardOffset": { "w": 285, "t": 100, "l": 35 }
+		},
+		{
+			"itemID": 1209,
+			"name": "yanqing",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "hunt",
+			"gachaCardOffset": { "l": 30, "t": 170 }
+		},
+		{
+			"itemID": 1206,
+			"name": "sushang",
+			"rarity": 4,
+			"combat_type": "physical",
+			"path": "hunt",
+			"release": "1.0-0",
+			"splashartOffset": { "t": 45 },
+			"gachaCardOffset": { "t": 145, "w": 470, "l": 40 }
+		},
+		{
+			"itemID": 1202,
+			"name": "tingyun",
+			"rarity": 4,
+			"combat_type": "lightning",
+			"path": "harmony",
+			"release": "1.0-0",
+			"splashartOffset": { "t": 55 },
+			"gachaCardOffset": { "l": 30, "t": 200 }
+		},
+		{
+			"itemID": 1201,
+			"name": "qingque",
+			"rarity": 4,
+			"combat_type": "quantum",
+			"path": "erudition",
+			"release": "1.0-0",
+			"gachaCardOffset": { "w": 350, "t": 140 }
+		},
+		{
+			"itemID": 1109,
+			"name": "hook",
+			"rarity": 4,
+			"combat_type": "fire",
+			"path": "destruction",
+			"release": "1.0-0",
+			"gachaCardOffset": { "l": 50, "t": 65, "w": 460 }
+		},
+		{
+			"itemID": 1108,
+			"name": "sampo",
+			"rarity": 4,
+			"combat_type": "wind",
+			"path": "nihility",
+			"release": "1.0-0"
+		},
+		{
+			"itemID": 1107,
+			"name": "clara",
+			"rarity": 5,
+			"combat_type": "physical",
+			"path": "destruction",
+			"gachaCardOffset": { "l": 70, "t": 175 }
+		},
+		{
+			"itemID": 1106,
+			"name": "pela",
+			"rarity": 4,
+			"combat_type": "ice",
+			"path": "nihility",
+			"release": "1.0-0",
+			"splashartOffset": { "l": 58, "t": 45 },
+			"gachaCardOffset": { "t": 135, "w": 480, "l": 100 }
+		},
+		{
+			"itemID": 1105,
+			"name": "natasha",
+			"rarity": 4,
+			"combat_type": "physical",
+			"path": "abundance",
+			"release": "1.0-0",
+			"splashartOffset": { "t": 50, "w": 80 },
+			"gachaCardOffset": { "l": 30, "t": 215 }
+		},
+		{
+			"itemID": 1104,
+			"name": "gepard",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "preservation",
+			"splashartOffset": { "t": 40 },
+			"gachaCardOffset": { "l": 0, "t": 100, "w": 580 }
+		},
+		{
+			"itemID": 1103,
+			"name": "serval",
+			"rarity": 4,
+			"combat_type": "lightning",
+			"path": "erudition",
+			"release": "1.0-0",
+			"gachaCardOffset": { "l": 25, "t": 125, "w": 575 }
+		},
+		{
+			"itemID": 1101,
+			"name": "bronya",
+			"rarity": 5,
+			"combat_type": "wind",
+			"path": "harmony",
+			"splashartOffset": { "t": 33, "w": 100, "l": 55 },
+			"gachaCardOffset": { "t": 70, "w": 640, "l": 70 }
+		},
+		{
+			"itemID": 1013,
+			"name": "herta",
+			"rarity": 4,
+			"combat_type": "ice",
+			"path": "erudition",
+			"release": "1.0-0",
+			"splashartOffset": { "t": 60, "l": 55 },
+			"gachaCardOffset": { "w": 350, "t": 195, "l": 45 }
+		},
+		{
+			"itemID": 1009,
+			"name": "asta",
+			"rarity": 4,
+			"combat_type": "fire",
+			"path": "harmony",
+			"release": "1.0-0",
+			"gachaCardOffset": { "t": 145 }
+		},
+		{
+			"itemID": 1008,
+			"name": "arlan",
+			"rarity": 4,
+			"combat_type": "lightning",
+			"path": "destruction",
+			"release": "1.0-0",
+			"gachaCardOffset": { "t": 100, "l": -30, "w": 450 }
+		},
+		{
+			"itemID": 1004,
+			"name": "welt",
+			"rarity": 5,
+			"combat_type": "imaginary",
+			"path": "nihility",
+			"gachaCardOffset": { "w": 445, "t": 220, "l": 55 }
+		},
+		{
+			"name": "himeko",
+			"rarity": 5,
+			"itemID": 1003,
+			"combat_type": "fire",
+			"path": "erudition",
+			"splashartOffset": { "t": 32, "w": 90 },
+			"gachaCardOffset": { "l": 55, "t": 60, "w": 520 }
+		},
+		{
+			"name": "dan-heng",
+			"itemID": 1002,
+			"rarity": 4,
+			"combat_type": "wind",
+			"path": "hunt",
+			"release": "1.0-0",
+			"splashartOffset": { "w": 90, "t": 45 },
+			"gachaCardOffset": { "t": 110, "l": 13, "w": 520 }
+		},
+		{
+			"itemID": 1001,
+			"name": "march-7th",
+			"rarity": 4,
+			"combat_type": "ice",
+			"path": "preservation",
+			"release": "1.0-0",
+			"splashartOffset": { "t": 45, "w": 100 },
+			"gachaCardOffset": { "t": 160 }
+		}
+	]
+}

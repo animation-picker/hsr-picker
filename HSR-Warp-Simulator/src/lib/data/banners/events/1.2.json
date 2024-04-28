@@ -1,0 +1,37 @@
+{
+	"patch": 1.2,
+	"data": [
+		{
+			"phase": 1,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["9-1"],
+					"rateup": ["arlan", "sushang", "natasha"]
+				},
+				"lightcone": {
+					"bannerID": ["19-1"],
+					"rateup": ["swordplay", "a-secret-vow", "shared-feeling"]
+				}
+			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"regularVersion": 1,
+				"character": {
+					"bannerID": ["8-1"],
+					"rateup": ["luka", "sampo", "serval"]
+				},
+				"lightcone": {
+					"bannerID": ["20-1"],
+					"rateup": [
+						"eyes-of-the-prey",
+						"resolution-shines-as-pearls-of-sweat",
+						"the-birth-of-the-self"
+					]
+				}
+			}
+		}
+	]
+}
